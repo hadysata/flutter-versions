@@ -1,4 +1,4 @@
-# flutter-versions
+# Flutter versions
 
 | Channel | Version           | Commit                                   | Engine commit                            | Dart SDK commit                          |  Snapshot version                |
 | ------- | ----------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | -------------------------------- |
